@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/issues</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/pulls</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/security</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/404.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/Aboutstyle.css</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/about.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/cards.css</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/contact.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/folding2.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/gaming3.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/index.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/lounge.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/molded4.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/office6.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/product.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/rocking5.html</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/blob/main/style.css</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/activity</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/releases</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/search?q=repo%3Aadilaptech350%2Frichfield-chair++language%3AHTML</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/search?q=repo%3Aadilaptech350%2Frichfield-chair++language%3ACSS</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/search?q=repo%3Aadilaptech350%2Frichfield-chair++language%3AJavaScript</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/labels</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/milestones</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27762405125</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27468373091</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/milestones?state=closed</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/commit/e7bed95afdc94e9d8d105d20636ae5ffa5744e44</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27762405125/usage</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27762405125/job/82139996219</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27762405125/job/82140096613</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27762405125/job/82140096604</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/commit/63822ebaba7fde998e9ba3e2e74471a6868b71ff</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27468373091/usage</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27468373091/job/81194673768</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27468373091/job/81194696264</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/adilaptech350/richfield-chair/actions/runs/27468373091/job/81194696285</loc>
+  <lastmod>2026-06-18T13:39:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+</urlset>
